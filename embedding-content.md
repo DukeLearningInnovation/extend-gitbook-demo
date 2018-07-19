@@ -1,10 +1,6 @@
----
-description: This page focuses on embedding content from outside resources.
----
-
 # Embedding Content
 
-#### Box Notes
+####  Box Notes
 
 [https://duke.box.com/s/4ab7o7fr1189yxhd08gj9736yuom7r4t](https://duke.box.com/s/4ab7o7fr1189yxhd08gj9736yuom7r4t)
 
@@ -34,5 +30,37 @@ description: This page focuses on embedding content from outside resources.
 
 {% embed data="{\"url\":\"https://duke.box.com/s/nix5c6ofj62zek671o8g09d5zr0nopc7\",\"type\":\"rich\",\"title\":\"Box\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn01.boxcdn.net/\_assets/img/favicons/android-chrome-192x192-96i97M.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"embed\":{\"type\":\"reader\",\"url\":\"https://duke.app.box.com/embed\_widget/s/nix5c6ofj62zek671o8g09d5zr0nopc7\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 80%;\\\"><iframe src=\\\"https://duke.app.box.com/embed\_widget/s/nix5c6ofj62zek671o8g09d5zr0nopc7\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":1.25}}" %}
 
+#### Gist
 
+{% embed data="{\"url\":\"https://gist.github.com/vinkrish/33b162bbef2220b3e746f4a2c2c65e4b\",\"type\":\"rich\",\"title\":\"Search GitHub users\",\"description\":\"Search GitHub users · GitHub\",\"icon\":{\"type\":\"icon\",\"url\":\"https://gist.github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/7734027?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1},\"embed\":{\"type\":\"reader\",\"html\":\"<script type=\\\"text/javascript\\\" src=\\\"https://gist.github.com/33b162bbef2220b3e746f4a2c2c65e4b.js\\\"></script>\",\"aspectRatio\":0}}" %}
+
+#### Another gitbook page
+
+{% page-ref page="embedding-content.md" %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+Gitbook specific tabs
+{% endtab %}
+
+{% tab title="Second Tab" %}
+Tab 2 content
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+Gitbook hint info
+{% endhint %}
+
+{% hint style="warning" %}
+Gitbook hint warning
+{% endhint %}
+
+{% hint style="danger" %}
+Gitbook hint danger
+{% endhint %}
+
+{% hint style="success" %}
+Gitbook hint success
+{% endhint %}
 
