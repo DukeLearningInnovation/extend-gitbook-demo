@@ -1,4 +1,4 @@
-# Initial page
+# Welcome to DukeVen
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
