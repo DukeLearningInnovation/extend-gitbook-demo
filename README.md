@@ -1,6 +1,6 @@
-# Welcome to DukeVen
+# Initial page
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Vivamus in arcu et nisi posuere dapibus ut vel felis. Aliquam erat volutpat. Cras nec velit eget neque ultricies scelerisque sed ut purus. Vivamus pharetra consequat erat vel sodales. Phasellus sit amet placerat ante. Phasellus at lacinia ligula, sed convallis metus. Nunc vitae gravida enim. Aliquam erat volutpat.
 
