@@ -2,12 +2,11 @@
 description: 'Pasted from https://markdown-it.github.io/'
 ---
 
-# Markdown Demo
+# Markdown
 
 ## Markdown
 
-😀
-**Advertisement :\)**
+😀 **Advertisement :\)**
 
 * [**pica**](https://nodeca.github.io/pica/demo/) - high quality and fast image
 
