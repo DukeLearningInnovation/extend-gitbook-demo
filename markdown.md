@@ -6,6 +6,7 @@ description: 'Pasted from https://markdown-it.github.io/'
 
 ## Markdown
 
+😀
 **Advertisement :\)**
 
 * [**pica**](https://nodeca.github.io/pica/demo/) - high quality and fast image
