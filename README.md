@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in arcu et nisi
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus urna eget lacus aliquet, eget posuere libero blandit. Fusce vehicula arcu quis leo luctus, vel aliquet diam porta. Cras a libero ut justo maximus accumsan sit amet a augue. Sed lectus nulla, consequat ac vestibulum quis, tincidunt quis mauris. Integer molestie turpis at lectus ornare porttitor. Nulla facilisi. Suspendisse potenti. Aliquam et efficitur eros. Duis eget sodales diam. Donec diam diam, aliquam id scelerisque id, volutpat vitae libero. Morbi lobortis faucibus suscipit.
 
 ## How to Become an Entrepreneur
-![How to Become an Entrepreneur video screenshot](https://duke.box.com/shared/static/q9sydnx0g1cb7edkkog1vvqs1zhay8jd.png)[How to Become an Entrepreneur](https://youtu.be/3YV-tWENu9k)
+[![How to Become an Entrepreneur video screenshot](https://duke.box.com/shared/static/q9sydnx0g1cb7edkkog1vvqs1zhay8jd.png)](https://youtu.be/3YV-tWENu9k)
 
 ## The Takeaway
 
